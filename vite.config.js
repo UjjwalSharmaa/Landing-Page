@@ -11,8 +11,8 @@ export default defineConfig({
         'gradient-x': 'gradient-x 5s ease infinite',
       },
       keyframes: {
-        'gradient-x': {
-          '0%, 100%': {
+        'gradient-x':{
+          '0%, 100%':{
             backgroundPosition: '0% 50%',
           },
           '50%': {
